@@ -1,0 +1,178 @@
+2018-11-19 15:48:55,054 INFO  [Log] **************************************************************************************** 
+2018-11-19 15:48:55,054 INFO  [Log] **************************************************************************************** 
+2018-11-19 15:48:55,054 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-19 15:48:55,054 INFO  [Log] **************************************************************************************** 
+2018-11-19 15:48:55,054 INFO  [Log] **************************************************************************************** 
+2018-11-19 15:48:55,620 INFO  [Log] Excel sheet opened 
+2018-11-19 15:48:55,621 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-11-19 15:48:58,986 INFO  [Log] New driver instantiated 
+2018-11-19 15:48:58,991 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-19 15:50:21,099 INFO  [Log] Web application launched successfully 
+2018-11-19 15:50:21,139 INFO  [Log] My Account link is found on the Home Page 
+2018-11-19 15:50:24,508 INFO  [Log] Click action is perfromed on My Account link 
+2018-11-19 15:50:24,535 INFO  [Log] Username text box is found on the Login Page 
+2018-11-19 15:50:24,624 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-11-19 15:50:24,641 INFO  [Log] Password text box is found on the Login page 
+2018-11-19 15:50:24,711 INFO  [Log] Test@123 is entered in Password text box 
+2018-11-19 15:50:24,735 INFO  [Log] Submit button is found on the Login page 
+2018-11-19 15:50:24,796 INFO  [Log] Click action is performed on Submit button 
+2018-11-19 15:50:44,853 ERROR [Log] Log Out link is not found on the Home Page 
+2018-11-19 15:50:45,468 ERROR [Log] no such element: Unable to locate element: {"method":"id","selector":"account_logout"}
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'IN01N00693', ip: '10.8.161.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60925}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\aghosh\AppData\Local\Temp\scoped_dir468_28232}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.102, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ed45d217dbde43245dc7746dad222370
+*** Element info: {Using=id, value=account_logout} 
+2018-11-19 15:51:48,209 INFO  [Log] **************************************************************************************** 
+2018-11-19 15:51:48,210 INFO  [Log] **************************************************************************************** 
+2018-11-19 15:51:48,210 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-19 15:51:48,210 INFO  [Log] **************************************************************************************** 
+2018-11-19 15:51:48,210 INFO  [Log] **************************************************************************************** 
+2018-11-19 15:51:48,847 INFO  [Log] Excel sheet opened 
+2018-11-19 15:51:48,847 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-11-19 15:51:52,279 INFO  [Log] New driver instantiated 
+2018-11-19 15:51:52,284 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-19 15:52:00,455 INFO  [Log] Web application launched successfully 
+2018-11-19 15:52:00,508 INFO  [Log] My Account link is found on the Home Page 
+2018-11-19 15:52:04,495 INFO  [Log] Click action is perfromed on My Account link 
+2018-11-19 15:52:04,522 INFO  [Log] Username text box is found on the Login Page 
+2018-11-19 15:52:04,613 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-11-19 15:52:04,632 INFO  [Log] Password text box is found on the Login page 
+2018-11-19 15:52:04,721 INFO  [Log] Test@123 is entered in Password text box 
+2018-11-19 15:52:04,746 INFO  [Log] Submit button is found on the Login page 
+2018-11-19 15:52:04,812 INFO  [Log] Click action is performed on Submit button 
+2018-11-19 15:52:24,872 ERROR [Log] Log Out link is not found on the Home Page 
+2018-11-19 15:52:25,496 ERROR [Log] no such element: Unable to locate element: {"method":"id","selector":"account_logout"}
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'IN01N00693', ip: '10.8.161.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60995}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\aghosh\AppData\Local\Temp\scoped_dir24248_18008}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.102, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ebb05bfcf94edb80f5132c186a32dff
+*** Element info: {Using=id, value=account_logout} 
+2018-11-19 16:01:28,210 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:01:28,210 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:01:28,210 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-19 16:01:28,210 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:01:28,210 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:01:28,664 INFO  [Log] Excel sheet opened 
+2018-11-19 16:01:28,664 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-11-19 16:01:31,509 INFO  [Log] New driver instantiated 
+2018-11-19 16:01:31,514 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-19 16:01:41,986 INFO  [Log] Web application launched successfully 
+2018-11-19 16:01:42,070 INFO  [Log] My Account link is found on the Home Page 
+2018-11-19 16:01:50,955 INFO  [Log] Click action is perfromed on My Account link 
+2018-11-19 16:01:50,982 INFO  [Log] Username text box is found on the Login Page 
+2018-11-19 16:01:51,047 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-11-19 16:01:51,064 INFO  [Log] Password text box is found on the Login page 
+2018-11-19 16:01:51,117 INFO  [Log] Test@123 is entered in Password text box 
+2018-11-19 16:01:51,132 INFO  [Log] Submit button is found on the Login page 
+2018-11-19 16:01:56,182 INFO  [Log] Click action is performed on Submit button 
+2018-11-19 16:02:16,217 ERROR [Log] Log Out link is not found on the Home Page 
+2018-11-19 16:02:17,155 ERROR [Log] no such element: Unable to locate element: {"method":"id","selector":"account_logout"}
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'IN01N00693', ip: '10.8.161.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:61142}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\aghosh\AppData\Local\Temp\scoped_dir23548_12710}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.102, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 06002a6290c5f3d2da921d4ec16dec0a
+*** Element info: {Using=id, value=account_logout} 
+2018-11-19 16:30:32,735 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:30:32,736 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:30:32,736 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-19 16:30:32,736 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:30:32,736 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:30:33,177 INFO  [Log] Excel sheet opened 
+2018-11-19 16:30:33,177 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-11-19 16:30:36,001 INFO  [Log] New driver instantiated 
+2018-11-19 16:30:36,006 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-19 16:31:19,043 INFO  [Log] Web application launched successfully 
+2018-11-19 16:31:19,081 INFO  [Log] My Account link is found on the Home Page 
+2018-11-19 16:31:25,015 INFO  [Log] Click action is perfromed on My Account link 
+2018-11-19 16:31:25,039 INFO  [Log] Username text box is found on the Login Page 
+2018-11-19 16:31:25,124 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-11-19 16:31:25,142 INFO  [Log] Password text box is found on the Login page 
+2018-11-19 16:31:25,207 INFO  [Log] Test@123 is entered in Password text box 
+2018-11-19 16:31:25,226 INFO  [Log] Submit button is found on the Login page 
+2018-11-19 16:31:25,286 INFO  [Log] Click action is performed on Submit button 
+2018-11-19 16:31:45,306 ERROR [Log] Log Out link is not found on the Home Page 
+2018-11-19 16:31:45,870 ERROR [Log] no such element: Unable to locate element: {"method":"id","selector":"account_logout"}
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'IN01N00693', ip: '10.8.161.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51275}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\aghosh\AppData\Local\Temp\scoped_dir15908_1036}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.102, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7960ce08f56d96d96a75bcba6d5a9a6a
+*** Element info: {Using=id, value=account_logout} 
+2018-11-19 16:36:55,626 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:36:55,627 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:36:55,627 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-19 16:36:55,627 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:36:55,627 INFO  [Log] **************************************************************************************** 
+2018-11-19 16:36:56,157 INFO  [Log] Excel sheet opened 
+2018-11-19 16:36:56,157 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-11-19 16:36:59,123 INFO  [Log] New driver instantiated 
+2018-11-19 16:36:59,128 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-19 16:37:09,960 INFO  [Log] Web application launched successfully 
+2018-11-19 16:37:09,997 INFO  [Log] My Account link is found on the Home Page 
+2018-11-19 16:37:13,941 INFO  [Log] Click action is perfromed on My Account link 
+2018-11-19 16:37:13,959 INFO  [Log] Username text box is found on the Login Page 
+2018-11-19 16:37:14,027 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-11-19 16:37:14,046 INFO  [Log] Password text box is found on the Login page 
+2018-11-19 16:37:14,112 INFO  [Log] Test@123 is entered in Password text box 
+2018-11-19 16:37:14,130 INFO  [Log] Submit button is found on the Login page 
+2018-11-19 16:37:14,196 INFO  [Log] Click action is performed on Submit button 
+2018-11-19 16:37:19,329 INFO  [Log] Log Out link is found on the Home Page 
+2018-11-19 16:37:19,621 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'IN01N00693', ip: '10.8.161.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:51676}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\aghosh\AppData\Local\Temp\scoped_dir28156_24864}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.102, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb3ae5f28ab36a2bea3fe94bd164f496 
+2018-12-21 14:05:24,893 INFO  [Log] **************************************************************************************** 
+2018-12-21 14:05:24,893 INFO  [Log] **************************************************************************************** 
+2018-12-21 14:05:24,893 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-12-21 14:05:24,893 INFO  [Log] **************************************************************************************** 
+2018-12-21 14:05:24,893 INFO  [Log] **************************************************************************************** 
+2018-12-21 14:05:25,424 INFO  [Log] Excel sheet opened 
+2018-12-21 14:05:25,424 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-12-21 14:05:29,204 INFO  [Log] New driver instantiated 
+2018-12-21 14:05:29,220 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-12-21 14:05:36,817 INFO  [Log] Web application launched successfully 
+2018-12-21 14:05:36,874 INFO  [Log] My Account link is found on the Home Page 
+2018-12-21 14:05:44,435 INFO  [Log] Click action is perfromed on My Account link 
+2018-12-21 14:05:44,467 INFO  [Log] Username text box is found on the Login Page 
+2018-12-21 14:05:44,543 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-12-21 14:05:44,560 INFO  [Log] Password text box is found on the Login page 
+2018-12-21 14:05:44,622 INFO  [Log] Test@123 is entered in Password text box 
+2018-12-21 14:05:44,637 INFO  [Log] Submit button is found on the Login page 
+2018-12-21 14:05:44,688 INFO  [Log] Click action is performed on Submit button 
+2018-12-21 14:05:57,169 INFO  [Log] Log Out link is found on the Home Page 
+2018-12-21 14:05:57,512 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'IN01N00693', ip: '10.8.161.236', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:52602}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\aghosh\AppData\Local\Temp\scoped_dir8908_12696}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=71.0.3578.98, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e627593004c479dd245091bc3ec4b96b 

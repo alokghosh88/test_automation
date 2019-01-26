@@ -1,0 +1,61 @@
+
+trunk ib:
+
+six plus one :MTCT Template ID is: 68751
+MTCT Template ID is: 68755
+regular tournament: MTCT Template ID is: 68760
+6+1 deal making: MTCT Template ID is: 68761
+
+rel b:
+six plus one: MTCT Template ID is: 76081
+six+ 1 rebuy addon: MTCT Template ID is: 76111
+6+1_dealmaking: MTCT Template ID is: 76122  139047491 
+6+1_pko: MTCT Template ID is: 76139
+
+pp_pokerautoag1
+pp_pokerautoag2
+pp_pokerautoag3
+pp_pokerautoag4
+pp_pokerautoag5
+pp_pokerautoag6
+pp_pokerautoag7
+pp_pokerautoag8
+
+Tournament Status: !TABLES LOADED !
+MTCT Name: 6+1_Progressive bounty ($1850.00+$150.00+$200.00)
+MTCT Instance Id: 139047666 
+Template ID: 76139 
+
+e7 new:
+8+1: MTCT Template ID is: 97938
+
+ournament Status: !REGISTRATION STARTED!
+MTCT Name: eight plus one ($9.00+$1.00)
+MTCT Instance Id: 191575388 
+Template ID: 97938 
+
+1. rebuy addon
+2. deal making
+3. bounty 
+4. progressive bounty
+
+
+deal making tournament issue:
+
+1. android shows average stack in decimals in info section . this is wrong. stack size cannot be in decimal. its a chip count.
+2. ios: 7 seater sb/bb issue for adjacent seats placed on the left of minitable. indicator has swapped postios. 
+
+spings:
+
+New Pay table created with ID 141
+SNGJACKPOT Template ID is: 76202
+
+regression:
+Tournament Status: !REGISTRATION STARTED !
+MTCT Name: Unlimited Reentries 1! ($18.00+$2.00)
+MTCT Instance Id: 139047588 
+Template ID: 76131 
+
+1. android shows average stack in decimals in info section . this is wrong. stack size cannot be in decimal. its a chip count.
+2. ios: 7 seater sb/bb issue for adjacent seats placed on the left of minitable. indicator has swapped postios. 
+3. 
