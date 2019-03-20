@@ -28,6 +28,7 @@ public class CheckOut_Action {
      		Reporter.log("Verification Passed for Product Name on Check Out page.");
      	}else{
      		// If it not displayed then the verification check is failed
+     		
      		Reporter.log("Verification Failed for Product Name on Check Out page.");
      		// If the above verification gets failed then I have to report this to my test and fail the test accordingly
      		// To achieve this, I have initialized this variable of Base class at the start of my test with value true in it
