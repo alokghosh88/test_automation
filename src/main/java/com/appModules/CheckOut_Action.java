@@ -23,6 +23,7 @@ public class CheckOut_Action {
      	// This is all about Verification checks, these does not stop your execution but simply report fail at the end
      	// This is to check that if the value in the variable sProductName is not null, then do this
      	if(!"".equals(CheckOut_Page.sProductName)){
+     		
      		// Here I have put a verification check on the Product Name, if it is displayed my verification will pass
      		Reporter.log("Verification Passed for Product Name on Check Out page.");
      	}else{
