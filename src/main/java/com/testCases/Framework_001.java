@@ -44,8 +44,8 @@ public class Framework_001 {
 	@Test
     public void main() throws Exception {
 		
-	//	BasicConfigurator.configure();
-  	  // Every exception thrown from any class or method, will be catch here and will be taken care off
+	  //BasicConfigurator.configure();
+		// Every exception thrown from any class or method, will be catch here and will be taken care off
   	  // For Exception handling please see http://www.toolsqa.com/selenium-webdriver/exception-handling-selenium-webdriver/
   	  try{
   		  

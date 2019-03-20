@@ -13,6 +13,8 @@ public class CheckOut_Action {
 	 // It could have been avoided and simply put these steps in Test Case, it depends totally on you, everybody has their own choice
 	 public static void Execute() throws Exception{
 		 
+		 
+		 
 		// This is to get the Product name on the Check Out page with using getText() method 
 		// CheckOut_Page.sProductName is a static variable and can be used anywhere with its class name
 		// Once some text is stored in this variable can be used later in any other class 
